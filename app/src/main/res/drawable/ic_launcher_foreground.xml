@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A plain two-point box. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M54,47 L54,72 M54,47 L35,41 M54,72 L35,64 M35,41 L35,64 M54,47 L74,40 M54,72 L74,63 M74,40 L74,63 M35,41 L55,35.5 M74,40 L55,35.5"
+        android:strokeWidth="2.6"
+        android:strokeColor="#1E1E1E"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

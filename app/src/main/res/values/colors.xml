@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="chrome">#ECE9E2</color>
+    <color name="text">#1E1E1E</color>
+    <color name="muted">#77736C</color>
+    <color name="divider">#D6D2CA</color>
+    <color name="accent">#2F6F5E</color>
+    <color name="icon_bg">#F7F5F0</color>
+</resources>
